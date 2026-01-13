@@ -1,5 +1,8 @@
 # kubernetes-disaster-recovery-with-velero
 
+<img width="1536" height="1024" alt="arch" src="https://github.com/user-attachments/assets/cb04897e-b982-416a-a06d-771fa824b90a" />
+
+
 This document explains **step-by-step** how to set up **two Kubernetes clusters (Cluster-A and Cluster-B)** on AWS EC2 and perform **Disaster Recovery (DR)** using **Velero**.
 
 ---
